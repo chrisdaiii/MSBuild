@@ -1,6 +1,8 @@
 # MSBuild
 MSBuild 学习资料
 
+[创建用于代码生成的自定义任务](https://learn.microsoft.com/zh-cn/visualstudio/msbuild/tutorial-custom-task-code-generation?view=vs-2022)
+
 ### 问题排查
 [[MSB4018] Could not load file or assembly "System.Runtime"...](https://stackoverflow.com/questions/73257163/custom-msbuild-task-net-6-0-runs-with-dotnet-but-not-in-vs)
 
