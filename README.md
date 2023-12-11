@@ -8,4 +8,4 @@ MSBuild 学习资料
 
 由于自定义Task所在的项目是.NET Core版本，在vs中执行Task调用的是vs中自带的msbuild（在 .NET Framework 上运行），所以需要将Task所在的项目改成.NET Standard 2.0版本即可。
 
-![1](https://github.com/chrisdaiii/msbuild/assets/67849861/d3ba4cb6-324a-4e31-9095-4f948abeddc7)
+![image](https://github.com/chrisdaiii/msbuild/assets/67849861/e11e2430-0241-4527-8bbb-c41b99a4c0f2)
