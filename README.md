@@ -48,6 +48,8 @@
 
 [Roslyn 让 VisualStudio 急速调试底层库方法](https://blog.lindexi.com/post/Roslyn-%E8%AE%A9-VisualStudio-%E6%80%A5%E9%80%9F%E8%B0%83%E8%AF%95%E5%BA%95%E5%B1%82%E5%BA%93%E6%96%B9%E6%B3%95.html)
 
+[在 .NET Core 中使用 Microsoft.Build 包时缺少 SDK](https://blog.rsuter.com/missing-sdk-when-using-the-microsoft-build-package-in-net-core/)
+
 ### 问题排查
 [[MSB4018] Could not load file or assembly "System.Runtime"...](https://stackoverflow.com/questions/73257163/custom-msbuild-task-net-6-0-runs-with-dotnet-but-not-in-vs)
 
